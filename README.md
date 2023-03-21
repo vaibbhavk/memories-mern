@@ -1,3 +1,3 @@
 # Memories
 
-Social media built with MERN stack
+Social media built with MERN stack.
